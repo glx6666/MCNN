@@ -1,15 +1,15 @@
-# MCNN 网络故障诊断说明
+# MCNN Network for Fault Diagnosis
 
-这是 **MCNN 网络**（Multi-scale Convolutional Neural Network）用于**故障诊断**的项目或研究说明。
+This project demonstrates the use of the **MCNN (Multi-scale Convolutional Neural Network)** for **fault diagnosis**.
 
-如果该方法或代码对您的研究或工作有所帮助，请引用以下论文：
+If this work or method is helpful for your research, please cite the following paper:
 
 > **Second-Order Cyclostationary Signal Extraction Method With Combined MOMEDA and Multiband Information Enhancement**  
 > *Kun He, Wei Kang, Yu Guo, Maoxuan Zhou, Jiawei Fan, and Xin Chen*  
 > *IEEE Transactions on Instrumentation and Measurement*, vol. 74, pp. 1–12, 2025.  
 > DOI: [10.1109/TIM.2025.3541794](https://doi.org/10.1109/TIM.2025.3541794)
 
-BibTeX 引用格式如下：
+BibTeX citation:
 
 ```bibtex
 @ARTICLE{10904169,
